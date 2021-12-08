@@ -1,16 +1,10 @@
 # Apollo GraphQL + Redis Starter Kit
-
-## Features
-* Apollo GraphQL
-* Redis cache to optimize the peformance
-* Docker integration to fire up the entire stack in minutes
-
 ## Installation
 
 `docker-compose up -d`
 
 
-Example :
+Example Query:
 Go to:  http://localhost:3010/
 ```
 query {
@@ -26,6 +20,8 @@ query {
   }
 }
 ```
+
+
 
 
 ![GraphQLPlusRedis ](resources/grapql-playground.jpg "GraphQLPlusRedis")
