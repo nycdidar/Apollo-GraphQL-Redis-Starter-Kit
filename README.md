@@ -1,4 +1,4 @@
-# Apollo GraphQL + Redis Starter Kit
+# Apollo GraphQL + Redis + Docker Starter Kit
 
 ## Features
 * Apollo GraphQL
